@@ -1,0 +1,10 @@
+Starting project at /Users/sarathpurushothamanc/product-photography
+Starting Metro Bundler
+Recrawled this watch 1 time, most recently because:
+MustScanSubDirs UserDroppedTo resolve, please review the information on
+https://facebook.github.io/watchman/docs/troubleshooting.html#recrawl
+To clear this warning, run:
+`watchman watch-del '/Users/sarathpurushothamanc/product-photography' ; watchman watch-project '/Users/sarathpurushothamanc/product-photography'`
+
+Waiting on http://localhost:8082
+Logs for your project will appear below.

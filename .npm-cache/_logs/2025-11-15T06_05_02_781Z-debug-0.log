@@ -1,0 +1,12 @@
+0 verbose cli /opt/homebrew/Cellar/node/24.7.0/bin/node /opt/homebrew/lib/node_modules/npm/bin/npm-cli.js
+1 info using npm@11.5.1
+2 info using node@v24.7.0
+3 silly config load:file:/opt/homebrew/lib/node_modules/npm/npmrc
+4 silly config load:file:/Users/sarathpurushothamanc/product-photography/.npmrc
+5 silly config load:file:/opt/homebrew/etc/npmrc
+6 verbose title npm exec expo start --lan --port 8082
+7 verbose argv "exec" "--" "expo" "start" "--lan" "--port" "8082"
+8 verbose logfile logs-max:10 dir:/Users/sarathpurushothamanc/product-photography/.npm-cache/_logs/2025-11-15T06_05_02_781Z-
+9 verbose logfile /Users/sarathpurushothamanc/product-photography/.npm-cache/_logs/2025-11-15T06_05_02_781Z-debug-0.log
+10 silly logfile start cleaning logs, removing 1 files
+11 silly logfile done cleaning log files
